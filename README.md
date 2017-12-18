@@ -1,0 +1,1 @@
+Wordpress plugin for managing wishlists among friends and family :)

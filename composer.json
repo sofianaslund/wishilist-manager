@@ -1,0 +1,14 @@
+{
+  "name": "sofianaslund/wishlist-manager",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "sofia",
+      "email":"sofianaslund@protonmail.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
